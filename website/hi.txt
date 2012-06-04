@@ -1,0 +1,17 @@
+name: <p>x1: <input type="text" id="x1_input"></input></p>
+name: <p>x2: <input type="text" id="x2_input"></input></p>
+name: <p>x3: <input type="text" id="x3_input"></input></p>
+name: <p>a1: <input type="text" id="a1_input"></input></p>
+name: <p>a2: <input type="text" id="a2_input"></input></p>
+name: <p>b1: <input type="text" id="b1_input"></input></p>
+name: <p>b2: <input type="text" id="b2_input"></input></p>
+name: <p>e1: <input type="text" id="e1_input"></input></p>
+name: <p>e2: <input type="text" id="e2_input"></input></p>
+name: <p>d1: <input type="text" id="d1_input"></input></p>
+name: <p>d2: <input type="text" id="d2_input"></input></p>
+name: <p>r: <input type="text" id="r_input"></input></p>
+name: <p>k: <input type="text" id="k_input"></input></p>
+name: <p>tau: <input type="text" id="tau_input"></input></p>
+name: <p>time: <input type="text" id="time_input"></input></p>
+name: <p>: <input type="text" id="_input"></input></p>
+name: 
